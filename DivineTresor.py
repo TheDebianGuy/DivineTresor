@@ -5,7 +5,7 @@ from tkinter import simpledialog
 import pyAesCrypt
 import os, sys
 
-extension = ".divine"
+extension = ".locked"
 
 def foldercrypt():
     folder = filedialog.askdirectory()
